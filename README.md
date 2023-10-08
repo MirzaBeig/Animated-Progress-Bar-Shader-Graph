@@ -1,1 +1,1 @@
-# animated-progress-bar-shader-graph
+# Animated Progress Bar (100% Shader Graph)

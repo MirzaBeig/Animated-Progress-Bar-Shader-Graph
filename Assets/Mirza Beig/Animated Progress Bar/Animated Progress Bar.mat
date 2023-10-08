@@ -96,7 +96,7 @@ Material:
     - _DstBlend: 0
     - _EnvironmentReflections: 1
     - _Fill: 0.4
-    - _Fill_Edge_Width: 0.008
+    - _Fill_Edge_Width: 0.02
     - _Fill_Highlight_Distance: 0.4
     - _Fill_Highlight_Power: 5
     - _GlossMapScale: 0

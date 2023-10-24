@@ -13,12 +13,6 @@
 Coloured animated progress bar made in Unity, with Shader Graph. 
 Inspired by [celestialmaze](https://twitter.com/cmzw_/status/1640202555698606080).
 
-[![Stars](https://img.shields.io/github/stars/MirzaBeig/Animated-Progress-Bar-Shader-Graph?style=for-the-badge)](../../stargazers)
-[![Forks](https://img.shields.io/github/forks/MirzaBeig/Animated-Progress-Bar-Shader-Graph?style=for-the-badge)](../../forks)
-[![GitHub watchers](https://img.shields.io/github/watchers/MirzaBeig/Animated-Progress-Bar-Shader-Graph?style=for-the-badge)](../../watchers)
-[![GitHub repo size](https://img.shields.io/github/repo-size/MirzaBeig/Animated-Progress-Bar-Shader-Graph?style=for-the-badge)](../../)
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MirzaBeig/Animated-Progress-Bar-Shader-Graph?style=for-the-badge)](../../)
-
 ## Preview
 
 https://github.com/MirzaBeig/Animated-Progress-Bar-Shader-Graph/assets/37354140/eff1edbe-af26-4897-a244-23054d8cd4cc

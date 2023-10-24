@@ -13,6 +13,8 @@
 Coloured animated progress bar made in Unity, with Shader Graph. 
 Inspired by [celestialmaze](https://twitter.com/cmzw_/status/1640202555698606080).
 
+## >  [Realtime/Live WebGL](https://mirzabeig.github.io/Animated-Progress-Bar-WebGL/)
+
 ## Preview
 
 https://github.com/MirzaBeig/Animated-Progress-Bar-Shader-Graph/assets/37354140/57cb019d-fd5e-4a59-acf5-f55c351b2f05

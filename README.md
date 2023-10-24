@@ -15,7 +15,7 @@ Inspired by [celestialmaze](https://twitter.com/cmzw_/status/1640202555698606080
 
 ## Preview
 
-https://github.com/MirzaBeig/Animated-Progress-Bar-Shader-Graph/assets/37354140/eff1edbe-af26-4897-a244-23054d8cd4cc
+https://github.com/MirzaBeig/Animated-Progress-Bar-Shader-Graph/assets/37354140/57cb019d-fd5e-4a59-acf5-f55c351b2f05
 
 ## Compatibility
 
